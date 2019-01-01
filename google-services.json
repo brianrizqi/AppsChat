@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "783111416283",
+    "firebase_url": "https://apps-2582d.firebaseio.com",
+    "project_id": "apps-2582d",
+    "storage_bucket": "apps-2582d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783111416283:android:bd08d3804d7c014f",
+        "android_client_info": {
+          "package_name": "himasif.ilkom.unej.ac.id.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783111416283-tiv10mjkma9mhv44k9cphkq4mlioc6s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "himasif.ilkom.unej.ac.id.myapplication",
+            "certificate_hash": "0b8ed7f3160920358f7ed48a90330d48d53a284d"
+          }
+        },
+        {
+          "client_id": "783111416283-938mqulg2je3hdhocn2hmm58sdbrfut0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc4SREhEktVWkfUyMiK_AoquFMApHwoGE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783111416283-938mqulg2je3hdhocn2hmm58sdbrfut0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
